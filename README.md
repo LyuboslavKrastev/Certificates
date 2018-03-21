@@ -1,2 +1,2 @@
 # Certificates
-Certificates I have acquired from SoftUni
+Certificates I have acquired during my education at SoftUni.
